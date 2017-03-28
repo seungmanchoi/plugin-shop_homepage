@@ -1,0 +1,43 @@
+{
+    "name": "xpressengine-plugin/shop_homepage",
+    "description": "This Package is Xpressengine Plugin - Shop 홈페이지.",
+    "keywords": [
+        "xpressengine",
+        "plugin"
+    ],
+    "license": "LGPL-2.1",
+    "version": "1.0.0",
+    "type": "xpressengine-plugin",
+    "support": {
+        "email": "input@your.email"
+    },
+    "authors": [
+        {
+            "name": "input your name",
+            "email": "input@your.email",
+            "homepage": "http://input.your.site",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "xpressengine": {
+            "title": "Shop 홈페이지",
+            "component": {
+                "theme/shop_homepage@theme": {
+                    "class": "Seungman\\XePlugins\\ShopHomepage\\Theme\\Theme",
+                    "name": "Shop 홈페이지 테마",
+                    "description": "The Theme supported by Shop_homepage plugin."
+                }
+            }
+        }
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Seungman\\XePlugins\\ShopHomepage\\": "src/"
+        },
+        "classmap": [
+            "theme/Theme.php"
+        ]
+    }
+}
