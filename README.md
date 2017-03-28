@@ -8,8 +8,8 @@ XE3 테마만들기를 학습하는 자료로 사용하였고 관련 링크는 �
 
 [1편 테마 생성](http://blueng.tistory.com/1)
 
-[2편 테마 설정](http://blueng.tistory.com/1)
+[2편 테마 설정](http://blueng.tistory.com/2)
 
-[3편 템플릿 구성](http://blueng.tistory.com/1)
+[3편 템플릿 구성](http://blueng.tistory.com/3)
 
-[4편 설정 적용](http://blueng.tistory.com/1)
+[4편 설정 적용](http://blueng.tistory.com/4)
